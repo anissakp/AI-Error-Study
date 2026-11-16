@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/anissakp/ai-error-study.git
-cd ai-error-study
+cd AI-Error-Study
 ```
 
 ### 2. Install Dependencies
